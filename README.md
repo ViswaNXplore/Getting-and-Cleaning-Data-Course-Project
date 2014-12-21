@@ -3,6 +3,8 @@ title: "Getting and Cleaning Data Project"
 output: html_document
 ---
 
+#Getting and Cleaning Data Project
+
 ..........by *ViswaNXplore*
 
 Repo for the submission of the course project for the Johns Hopkins Getting and Cleaning Data course.
